@@ -1,0 +1,6 @@
+﻿token= NTg1NTM5NTU3OTA3MjM0ODU1.XPa8pg.nqRQrBvU113lE-ArQoookJKN92Q
+owner= 488530347902894090
+prefix= M
+game= البلينق
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false MPRO
